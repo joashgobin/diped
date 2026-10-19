@@ -1,0 +1,14 @@
+qr/
+tmp/
+bin/
+fiber.sqlite3
+config.env
+static/gen/
+sitemap/
+merchants/
+views/cmp/
+classcrumbs.log
+*_templ.go
+*:Zone.Identifier
+*.fiber.gz
+*.br
