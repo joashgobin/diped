@@ -2,3 +2,4 @@
 
 - Added zoom links for classes
 - Added links on multiple intelligences
+- Tweaks

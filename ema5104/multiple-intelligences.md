@@ -2,3 +2,4 @@
 [(University of the People) What is the Multiple Intelligences Theory?](https://www.uopeople.edu/blog/what-is-the-multiple-intelligences-theory/)
 [(NIU Center for Innovative Teaching and Learning) Howard Gardner's Theory of Multiple Intelligences](https://www.niu.edu/citl/resources/guides/instructional-guide/gardners-theory-of-multiple-intelligences.shtml)
 [(Research Gate) Multiple Intelligence in the Teaching and Learning Process: A Study of Howard Gardner's Thought, Challenges and Opportunities](https://www.researchgate.net/publication/386074453_Multiple_Intelligence_in_the_Teaching_and_Learning_Process_A_Study_of_Howard_Gardner's_Thought_Challenges_and_Opportunities)
+
